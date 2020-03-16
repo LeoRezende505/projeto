@@ -1,0 +1,103 @@
+.cadastra{
+	margin-top: 30px;
+	text-align: center;	
+}
+.cadastra h1{
+	margin-bottom: 20px;	
+}
+.cadastra input{
+	width: 60%;	
+	margin: auto;
+}
+.cadastra textarea{
+	width: 60%;
+	height: 300px;
+	margin: auto;
+	resize: none;
+}
+input[type=submit]{
+	width: 20%;	
+}
+.consulta{
+	display: flex;
+	flex-flow: row wrap;
+}
+.produto{
+	width: 28%;
+	margin: 20px;
+	border: solid 1px #000;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+.produto h2{
+	font-size: 20px;
+	text-align: center;
+	background-color: #5cb85c;
+	margin: 0;
+	padding: 15px 0;
+	color: #000;
+}
+.produto p{
+	padding: 30px 20px 0px 20px;
+}
+.valor {
+	padding: 0;
+	text-align: center;	
+	font-weight: bold;
+	color: #000;
+	font-size: 32px;
+}
+.icon {
+	text-align: center;	
+}
+.icon img{
+	height: 25px;
+}
+#campo-pesquisa{
+	width: 400px !important;	
+}
+#btn-pesquisa{
+	width: 120px !important;	
+}
+#bloco-pesquisa{
+	margin: 20px;
+}
+#resultados{
+	display: block;
+}
+#login{
+	width: 400px;
+	margin: auto;
+	text-align: center;
+}
+#logar{
+	margin-top: 20px;	
+}
+h1{
+	text-align: center;	
+}
+.erro{
+	color: #f00;
+	text-align: center;
+	margin-top: 20px;
+}
+.img{
+	width: 70%;
+	display: block;
+	margin: 30px auto 0px auto;
+}
+.botoes figure{
+	display: inline-block;
+	border: solid 1px #999;
+	margin: 10px;
+	padding: 20px;
+}
+.avatar{
+	height: 30px;	
+}
+
+
+
+
+
+
